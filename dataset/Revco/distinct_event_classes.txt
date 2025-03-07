@@ -1,0 +1,61 @@
+These are the distinct internal event classes observed across all Revco UxF700:
+
+ Type: 0	Event: FW INVALID
+ Type: 1	Event: User Log On service
+ Type: 2	Event: User Logout service
+ Type: 3	Event: Door is opened
+ Type: 4	Event: Door closed
+ Type: 7	Event: Replace Main Battery
+ Type: 8	Event: Replace Backup Battery
+ Type: 9	Event: Bus Communicaiton Fail
+ Type: 10	Event: Annual Reminder - Main Battery
+ Type: 10	Event: Main Battery Expired
+ Type: 15	Event: Unable To Reach SP
+ Type: 17	Event: Warm Interstage
+ Type: 18	Event: Pull Down Check Good
+ Type: 21	Event: Clean Filter
+ Type: 22	Event: AC Power Interrupted
+ Type: 23	Event: AC Power Restored
+ Type: 24	Event: Warm Alarm
+ Type: 25	Event: Warm Alarm
+ Type: 28	Event: Door open alarm
+ Type: 30	Event: System Battery Low
+ Type: 31	Event: Extreme Ambient
+ Type: 32	Event: Life Guard
+ Type: 34	Event: Voltage Frequency - Fail
+ Type: 35	Event: Lost Communication With Main
+ Type: 36	Event: Buck/Boost mode = Boost
+ Type: 36	Event: Buck/Boost mode = Buck
+ Type: 36	Event: Buck/Boost mode = Normal
+ Type: 39	Event: Sensor value out of range
+ Type: 40	Event: Primary Setpoint
+ Type: 41	Event: Warm Alarm
+ Type: 42	Event: Cold Alarm
+ Type: 42	Event: Failed To Shudown
+ Type: 43	Event: Daily System Settings Record
+ Type: 43	Event: Failed to Change Cold Alarm
+ Type: 43	Event: Primary Offset
+ Type: 44	Event: Extreme Ambient
+ Type: 44	Event: Reset to factory settings
+ Type: 45	Event: Power Modes = Energy Savings
+ Type: 45	Event: Power Modes = High Performance
+ Type: 46	Event: Reset to factory settings
+ Type: 46	Event: Shutdown
+ Type: 47	Event: Power Modes = High Performance
+ Type: 47	Event: Reset Temperature Excursions
+ Type: 48	Event: Reset Door Count
+ Type: 48	Event: Shutdown
+ Type: 49	Event: Reset Temperature Excursions
+ Type: 49	Event: Upload CFG
+ Type: 50	Event: Reset Door Count
+ Type: 54	Event: Date
+ Type: 55	Event: Time
+ Type: 56	Event: Date
+ Type: 57	Event: Time
+ Type: 60	Event: Upload Controller Code
+ Type: 61	Event: Upload UI Application
+ Type: 62	Event: Upload Controller Code
+ Type: 63	Event: Security Mode = Full Access
+ Type: 64	Event: Display Power On
+ Type: 65	Event: Security Mode = Full Access
+ Type: 66	Event: Display Power On

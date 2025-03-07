@@ -1,0 +1,9 @@
+These are the distinct internal event classes observed across all Haier DW-86L959W:
+
+Event: Clogged condenser alarm
+Event: Door ajar alarm
+Event: Door closing
+Event: Door opening
+Event: High temperature alarm
+Event: No battery alarm
+Event: Power failure alarm
